@@ -1,0 +1,5 @@
+{
+  "name": "AI Virtual Staging Pro",
+  "description": "An application that uses AI to virtually stage photos of empty rooms. Upload photos, select a style, and the AI will furnish the rooms with appropriate furniture, lighting, and decor to create professionally staged images.",
+  "requestFramePermissions": []
+}
